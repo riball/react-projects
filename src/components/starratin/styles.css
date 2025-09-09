@@ -1,0 +1,10 @@
+.starRatin{
+    align-items: center;
+    margin-left: 35%;
+}
+.active{
+    color:gold;
+}
+.passive{
+    color:rgb(0, 0, 0);
+}
